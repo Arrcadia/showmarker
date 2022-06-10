@@ -1,2 +1,0 @@
-PABLITO'S: python finder.py --workers 20 --proxy-file proxies.txt -u https://discord.com/api/webhooks/970148868434063371/r_1Q7LLtR-WIu2jZtFARTXvtjXbQltsVkhXmkeHLS19MCj71Yar-bC5Y_fdBm2Wgrh25
-MINE'S: python finder.py --workers 20 --proxy-file proxies.txt -u https://discord.com/api/webhooks/883867388846690355/9uGsxLWFD-NEEnilfIOZdyS4UUMAqx2E2bcxEdvXIkzfEEAFNzAK4R3Tp2DND3Vasw7S
